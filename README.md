@@ -22,7 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fthgrsy27&show_icons=true&locale=en&layout=compact" alt="fthgrsy27" /></p>
 
-  
- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fthgrsy27&show_icons=true&theme=tokyonight" alt="fthgrsy27" /></p>
 
