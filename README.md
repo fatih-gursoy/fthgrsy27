@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthgrsy27&label=Profile%20views&color=blueviolet&style=flat" alt="fthgrsy27" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fatihgursoyyy" target="blank"><img src="https://img.shields.io/twitter/follow/fatihgursoyyy?logo=twitter&style=for-the-badge" alt="fatihgursoyyy" /></a> </p>
-
 - 🔭 I’m currently working on my own project: **PicknGo**
 
 - 🌱 I’m currently learning **MVVM, Protocol oriented, ARKit and CoreML**
