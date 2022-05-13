@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my own project: **PicknGo**
 
-- 🌱 I’m currently learning **Protocol oriented Programming, Coordinator and VIPER Patterns, Clean Swift architecture
+- 🌱 I’m currently learning **Protocol oriented Programming, Coordinator and VIPER Patterns, Clean Swift architecture**
 - 📝 I aim to learn: **Reactive Programming (RxSwift, Combine), ARKit and CoreML**
 
 - 📫 How to reach me **fatihgursoy85@gmail.com**
