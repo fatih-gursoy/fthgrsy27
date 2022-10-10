@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthgrsy27&label=Profile%20views&color=blueviolet&style=flat" alt="fthgrsy27" /> </p>
 
 - 🔭 I’m currently working on my own project: **PicknGo**
-- [This is](https://github.com/fthgrsy27/Cuisiner) my open source project currently live on the App Store
+- **[This is](https://github.com/fthgrsy27/Cuisiner)** my open source project currently live on the App Store
 - 🌱 I’m currently learning **VIPER and Clean Swift architecture**
 - 📝 I aim to learn: **ARKit and CoreML**
 
